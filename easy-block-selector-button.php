@@ -3,7 +3,7 @@
  * Plugin Name: Easy Block Selector
  * Plugin URI: http://wordpress.org/extend/plugins/easy-block-selector/
  * Description: Extend the range selection of TinyMCE.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: sekishi
  * Author URI: http://lab.planetleaf.com/
  * Text Domain: easy-block-selector

@@ -241,7 +241,7 @@
 							range.setEnd(	endNode   , end_curpos );
 						}
 					}
-					window.getSelection().addRange(range);// fixed IE and Safari
+					selection.addRange(range);
 				}
 			});
 		},
